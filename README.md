@@ -45,7 +45,7 @@ A responsive image gallery built with React and the Unsplash API.
 - Navigate through pages.
 - View photos in a larger preview modal.
 
-[View Project →](https://github.com/kamble-chetan/react-image-gallery)
+🔗 [View Project](https://github.com/kamble-chetan/react-image-gallery)
 
 ## 📚 Currently Learning
 
