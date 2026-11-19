@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Chetan 👋
 
-<!--
-**kamble-chetan/kamble-chetan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Engineering Student | Aspiring Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm a Computer Engineering student from India passionate about software development and building practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning new technologies, solving problems, and turning ideas into working applications.
+
+## 🚀 About Me
+
+- 🎓 Computer Engineering student.
+- 🌱 Currently learning React.js and JavaScript.
+- ☕ Exploring Java and backend development.
+- 💻 Building projects to strengthen my development skills.
+- 🎯 Working towards becoming a Full-Stack Developer.
+
+## 🛠️ Technologies & Tools
+
+**Frontend Development**
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Tailwind CSS
+
+**Programming Languages**
+- Java
+- JavaScript
+
+**Tools & Technologies**
+- Git & GitHub
+- Axios
+- Vite
+- REST APIs
+
+## 📌 Featured Project
+
+### React Image Gallery
+
+A responsive image gallery built with React and the Unsplash API.
+
+**Features:**
+- Browse photos from Unsplash.
+- Search photos using keywords.
+- Navigate through pages.
+- View photos in a larger preview modal.
+
+[View Project →](https://github.com/kamble-chetan/react-image-gallery)
+
+## 📚 Currently Learning
+
+- Improving React development skills.
+- Strengthening Java fundamentals.
+- Exploring backend development.
+- Building real-world projects.
+
+---
+
+⭐ Thanks for visiting my profile!
